@@ -38,5 +38,7 @@ The below annotations can be accessed with `va.qc.<identifier>`
  - `rHetHomVar:            Double` -- Het/HomVar ratio across all samples
  - `dpMean:                Double` -- Depth mean across all samples
  - `dpStDev:               Double` -- Depth standard deviation across all samples
+ - `gqMean:                Double` -- Genotype quality mean across all samples
+ - `gqStDev:               Double` -- Genotype quality standard deviation across all samples
  
  </div>
